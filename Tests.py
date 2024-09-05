@@ -1,5 +1,7 @@
-a = ["a"]
-b = ["b"]
-for x in a:
+a = "a"
+b = ord(a)
+print(b)
 
-print(a)
+
+
+
