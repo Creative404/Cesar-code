@@ -1,2 +1,2 @@
-# Text game
- Just simple texting game for traning
+# cesar-code
+ Just simple cesar code crypt/decrytp prgram 
